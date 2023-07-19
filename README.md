@@ -5,7 +5,7 @@ LT_USERNAME = [your username]
 
 LT_ACCESS_KEY = [your accesskey]
 
-note - do NOT include quotation marks.
+note - do NOT include quotation marks or brackets
 
 step 2 - 
 install the dependencies using the command [npm install]
