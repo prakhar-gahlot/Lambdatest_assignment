@@ -1,7 +1,10 @@
 step 1 -
 create a file named .env in the root directory and add LambdaTest credentials in the following manner - 
+
 LT_USERNAME = [your username]
+
 LT_ACCESS_KEY = [your accesskey]
+
 note - do NOT include quotation marks.
 
 step 2 - 
